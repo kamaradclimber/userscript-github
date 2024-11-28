@@ -7,6 +7,8 @@
 // @version     1.0
 // @author      kamaradclimber
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @updateURL   https://raw.githubusercontent.com/kamaradclimber/userscript-github/master/deleteallcomments.user.js
+// @downloadURL https://raw.githubusercontent.com/kamaradclimber/userscript-github/master/deleteallcomments.user.js
 // ==/UserScript==
 
 
