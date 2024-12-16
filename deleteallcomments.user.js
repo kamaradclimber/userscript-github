@@ -2,7 +2,7 @@
 // @name        delete-all-comments
 // @description Delete all comments from a given author
 // @namespace   Violentmonkey Scripts
-// @match       https://github.com/DataDog/logs-backend/pull/*
+// @match       https://github.com/DataDog/*/pull/*
 // @grant       none
 // @version     1.0
 // @author      kamaradclimber
