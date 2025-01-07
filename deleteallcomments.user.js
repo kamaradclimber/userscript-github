@@ -4,7 +4,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://github.com/DataDog/*/pull/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      kamaradclimber
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @updateURL   https://raw.githubusercontent.com/kamaradclimber/userscript-github/master/deleteallcomments.user.js
